@@ -1,0 +1,210 @@
+{
+ "zones": [
+  {
+   "name": "East",
+   "id": "58tprzty"
+  },
+  {
+   "name": "east ",
+   "id": "0p8fyz0n"
+  },
+  {
+   "name": "West",
+   "id": "dz5b7bfm"
+  },
+  {
+   "name": "North",
+   "id": "4wx4d7m0"
+  },
+  {
+   "name": "South",
+   "id": "40snnqt2"
+  }
+ ],
+ "kitchens": [
+  {
+   "name": "TATANAGAR",
+   "zoneId": "58tprzty",
+   "id": "uanjyz97",
+   "zone": "East",
+   "code": "UANJYZ97",
+   "active": true
+  },
+  {
+   "name": "KURLA",
+   "zoneId": "dz5b7bfm",
+   "id": "jneg2tgt",
+   "zone": "West",
+   "code": "JNEG2TGT",
+   "active": true
+  },
+  {
+   "name": "OKHLA",
+   "zoneId": "4wx4d7m0",
+   "id": "7sy4e5db",
+   "zone": "North",
+   "code": "7SY4E5DB",
+   "active": true
+  },
+  {
+   "name": "BANGALORE",
+   "zoneId": "40snnqt2",
+   "id": "mjz0lbwz",
+   "zone": "South",
+   "code": "MJZ0LBWZ",
+   "active": true
+  }
+ ],
+ "units": [
+  {
+   "code": "KG",
+   "name": "KG"
+  },
+  {
+   "code": "L",
+   "name": "L"
+  },
+  {
+   "code": "EA",
+   "name": "EA"
+  },
+  {
+   "code": "GM",
+   "name": "GM"
+  },
+  {
+   "code": "ML",
+   "name": "ML"
+  },
+  {
+   "code": "portion",
+   "name": "portion"
+  }
+ ],
+ "materials": [
+  {
+   "code": "11000216",
+   "name": "POTATO (FRESH)",
+   "unit": "KG",
+   "active": true
+  },
+  {
+   "code": "11000012",
+   "name": "ARAHAR DAL",
+   "unit": "KG",
+   "active": true
+  },
+  {
+   "code": "P11000272",
+   "name": "AJWAIN",
+   "unit": "KG",
+   "active": true
+  }
+ ],
+ "rates": [
+  {
+   "materialCode": "11000216",
+   "rate": 12.65,
+   "kitchenId": "jneg2tgt",
+   "effectiveFrom": "2026-09-29",
+   "id": "359smz85"
+  },
+  {
+   "materialCode": "11000216",
+   "rate": 12.65,
+   "kitchenId": "jneg2tgt",
+   "effectiveFrom": "2026-09-29",
+   "id": "m7jt7lxl"
+  },
+  {
+   "materialCode": "11000012",
+   "rate": 115,
+   "kitchenId": "uanjyz97",
+   "effectiveFrom": "2026-09-29",
+   "id": "zvq58sak"
+  },
+  {
+   "materialCode": "P11000272",
+   "rate": 241.8,
+   "kitchenId": "7sy4e5db",
+   "effectiveFrom": "2026-09-29",
+   "id": "18dt5qvv"
+  },
+  {
+   "materialCode": "11000012",
+   "rate": 241.8,
+   "kitchenId": "7sy4e5db",
+   "effectiveFrom": "2026-09-29",
+   "id": "w0r0w8nq"
+  },
+  {
+   "materialCode": "P11000272",
+   "rate": 115,
+   "kitchenId": "7sy4e5db",
+   "effectiveFrom": "2026-09-29",
+   "id": "w4okd5nx"
+  }
+ ],
+ "items": [
+  {
+   "code": "FG00000025",
+   "name": "NONVEG-RSD-METHI CHICKEN CURRY-100G-BLOK",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG00000016",
+   "name": "VEGMEAL -RSDMATER PANEER-100G-CCII",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG00000042",
+   "name": "VEGMEAL-VB-SHAHI PANEER -150G-EC/CC",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG00000047",
+   "name": "NONVEG-VB-KADHAI CHICKEN -150G-EC/C",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG0000310",
+   "name": "Jeera Rice (100gms)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "GM",
+   "active": true
+  },
+  {
+   "code": "SFG0000385",
+   "name": "Boiled Egg (2 no )",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "EA",
+   "active": true
+  },
+  {
+   "code": "SFG0000710",
+   "name": "DIABETIC BESAN CHILLA(150GM)",
+   "type": "FG",
+   "group": "TT Staff Food",
+   "unit": "portion",
+   "active": true
+  }
+ ],
+ "recipes": [],
+ "demand": [],
+ "stock": [],
+ "expenses": []
+}
