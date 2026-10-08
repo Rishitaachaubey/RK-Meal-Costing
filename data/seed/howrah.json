@@ -5514,5 +5514,14 @@
    "message": "Hidden sheets b-64 and other expenses were not used.",
    "ref": "hidden"
   }
+ ],
+ "kitchens": [
+  {
+   "id": "k-howrah",
+   "code": "HWH",
+   "name": "Howrah",
+   "zone": "East",
+   "active": true
+  }
  ]
 }
