@@ -4,6 +4,11 @@ const bad = (m, s = 400) => NextResponse.json({ error: m }, { status: s });
 export async function GET() { return NextResponse.json(load()); }
 export async function POST(req) {
   const b = await req.json(); const d = load(); const { op, table } = b;
+  if (op === "resetDb") {
+    const seed = JSON.parse(fs.readFileSync(path.join(process.cwd(), "data", "seed", "howrah.json"), "utf8"));
+    save(seed);
+    return NextResponse.json(seed);
+  }
   if (op === "saveDemand") { // replaces one kitchen + date
     if (!b.kitchenId || !b.date) return bad("Choose a kitchen and a date.");
     d.demand = d.demand.filter(x => !(x.kitchenId === b.kitchenId && x.date === b.date));
