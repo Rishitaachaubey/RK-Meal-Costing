@@ -1,0 +1,5518 @@
+{
+ "kitchen": "Howrah",
+ "materials": [
+  {
+   "code": "MAT0001",
+   "name": "2 CP PLASTIC THALI BLACK-P",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0002",
+   "name": "AAMCHUR POWDER 100 GM",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0003",
+   "name": "AJWAIN",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0004",
+   "name": "ARAHAR DAL",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0005",
+   "name": "ATTA CHAKKI",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0006",
+   "name": "BEANS",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0007",
+   "name": "BREAD CRUMB",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0008",
+   "name": "BRIYANI MASALA-P",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0009",
+   "name": "BRIYANI RICE-FULL LENGTH-P",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0010",
+   "name": "BUTTER 500G-P",
+   "unit": "L"
+  },
+  {
+   "code": "MAT0011",
+   "name": "CARROT",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0012",
+   "name": "CASSEROLL 120 ML 50 MICRON",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0013",
+   "name": "CASSEROLL 120ML 32 MICRON",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0014",
+   "name": "CASSEROLL 210 ML 50 MICRON",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0015",
+   "name": "CHANA DAL",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0016",
+   "name": "CHEESE SLICE-P",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0017",
+   "name": "CHICKEN FRESH",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0018",
+   "name": "CHICKEN FROZEN BREAST (BONELESS)",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0019",
+   "name": "CHICKEN MASALA-P",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0020",
+   "name": "CHILLI POWDER 200 GM",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0021",
+   "name": "CHUKANDAR",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0022",
+   "name": "CLOVE (LOUNG)",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0023",
+   "name": "CURRY PATTA",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0024",
+   "name": "DALDA",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0025",
+   "name": "DAWAT CHEF SEC ROYAL BASMATI RICE",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0026",
+   "name": "DEGI MIRCH POWDER",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0027",
+   "name": "DHANIA",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0028",
+   "name": "DHANIA POWDER 200 GM",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0029",
+   "name": "DHANIA SABUT",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0030",
+   "name": "EGG",
+   "unit": "L"
+  },
+  {
+   "code": "MAT0031",
+   "name": "ELAYCHI SMALL",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0032",
+   "name": "FISH",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0033",
+   "name": "FRESH CREAM-P",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0034",
+   "name": "GARAM MASALA-P",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0035",
+   "name": "GARLIC",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0036",
+   "name": "GINGER",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0037",
+   "name": "GREEN CHILLY",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0038",
+   "name": "GREEN PEAS",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0039",
+   "name": "HALDI POWDER 200 GM",
+   "unit": "L"
+  },
+  {
+   "code": "MAT0040",
+   "name": "JEERA SABUT",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0041",
+   "name": "JUMBO BREAD",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0042",
+   "name": "KAJU 4 PIECES",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0043",
+   "name": "KALI MIRCH",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0044",
+   "name": "KASOORI METHI",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0045",
+   "name": "KITCHEN KING MASALA",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0046",
+   "name": "LAUKI",
+   "unit": "L"
+  },
+  {
+   "code": "MAT0047",
+   "name": "LID 120 ML PRINT VB (75 MM X 75 MM)",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0048",
+   "name": "LID 120ML 350 GSM (82 MM X 91 MM)",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0049",
+   "name": "LID 2 CP PLASTIC THALI 11 GM",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0050",
+   "name": "LID 210 ML PRINT VB (120 MM X 90 MM)",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0051",
+   "name": "LID 210ML PRNT 300 GSM (120 MM X 90 MM )",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0052",
+   "name": "LID PARATHA 10 MICRON",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0053",
+   "name": "MAGAJ (TARBUJ)",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0054",
+   "name": "MASOOR DAL",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0055",
+   "name": "MAYONNAISE 1KG",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0056",
+   "name": "METHI LEAVES",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0057",
+   "name": "MIRCHI SABUT",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0058",
+   "name": "MOONG DAL DHULI",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0059",
+   "name": "MUSTARD",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0060",
+   "name": "ONION",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0061",
+   "name": "PANEER",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0062",
+   "name": "PARWAL",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0063",
+   "name": "PEANUTS",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0064",
+   "name": "PHOOL GOBHI",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0065",
+   "name": "POTATO (FRESH)",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0066",
+   "name": "RICE CRUMS (TAXABLE)",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0067",
+   "name": "SALT",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0068",
+   "name": "SANDWICH COVER 60GM",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0069",
+   "name": "SANDWICH PANNI",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0070",
+   "name": "SAUNF",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0071",
+   "name": "SHIMLA MIRCH",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0072",
+   "name": "SOYABEAN OIL-P",
+   "unit": "L"
+  },
+  {
+   "code": "MAT0073",
+   "name": "SOYABEEN BARI",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0074",
+   "name": "SPRING ONION",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0075",
+   "name": "SUGAR",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0076",
+   "name": "SUJI",
+   "unit": "EA"
+  },
+  {
+   "code": "MAT0077",
+   "name": "TOMATO",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0078",
+   "name": "WHITE PEPPER POWDER",
+   "unit": "KG"
+  },
+  {
+   "code": "MAT0079",
+   "name": "WHITE SELLA TIBAR RICE-P",
+   "unit": "KG"
+  }
+ ],
+ "rates": [
+  {
+   "materialCode": "MAT0001",
+   "rate": 4,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0002",
+   "rate": 250,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0003",
+   "rate": 241.79768634466308,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0004",
+   "rate": 115,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0005",
+   "rate": 38.93422420696027,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0006",
+   "rate": 60.55286555528712,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0007",
+   "rate": 101.1954328747628,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0008",
+   "rate": 93.63658323333334,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0009",
+   "rate": 66,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0010",
+   "rate": 530.9777108420614,
+   "unit": "L"
+  },
+  {
+   "materialCode": "MAT0011",
+   "rate": 37.62738467775412,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0012",
+   "rate": 0.81,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0013",
+   "rate": 0.8124684684684684,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0014",
+   "rate": 1.8133391940866197,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0015",
+   "rate": 75.57631550277799,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0016",
+   "rate": 412.2707294320881,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0017",
+   "rate": 268,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0018",
+   "rate": 268,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0019",
+   "rate": 406.11958148148153,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0020",
+   "rate": 180,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0021",
+   "rate": 35.703725422640915,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0022",
+   "rate": 840.4643150013366,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0023",
+   "rate": 85,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0024",
+   "rate": 152.34766345238066,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0025",
+   "rate": 66,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0026",
+   "rate": 800,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0027",
+   "rate": 193.53166666666667,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0028",
+   "rate": 270,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0029",
+   "rate": 152.56,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0030",
+   "rate": 7.15569081605171,
+   "unit": "L"
+  },
+  {
+   "materialCode": "MAT0031",
+   "rate": 2756.12,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0032",
+   "rate": 360,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0033",
+   "rate": 237.2729791596087,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0034",
+   "rate": 451.51132880430345,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0035",
+   "rate": 154.83660000000003,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0036",
+   "rate": 156.9786,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0037",
+   "rate": 80.7871986772461,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0038",
+   "rate": 151.3875,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0039",
+   "rate": 194,
+   "unit": "L"
+  },
+  {
+   "materialCode": "MAT0040",
+   "rate": 294.9567232319753,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0041",
+   "rate": 110,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0042",
+   "rate": 760,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0043",
+   "rate": 868.3696809412409,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0044",
+   "rate": 348.8830769230769,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0045",
+   "rate": 432.0246372883473,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0046",
+   "rate": 31.38888888888889,
+   "unit": "L"
+  },
+  {
+   "materialCode": "MAT0047",
+   "rate": 0.4075329305135952,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0048",
+   "rate": 0.34,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0049",
+   "rate": 1.542218826405868,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0050",
+   "rate": 0.10263157894736842,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0051",
+   "rate": 0.7237547619047616,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0052",
+   "rate": 0.9935592402628627,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0053",
+   "rate": 30,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0054",
+   "rate": 82.91149722735673,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0055",
+   "rate": 73.84385145036855,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0056",
+   "rate": 80,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0057",
+   "rate": 244.96339544513458,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0058",
+   "rate": 106.75516605166054,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0059",
+   "rate": 114.76941176470586,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0060",
+   "rate": 36.44998839171084,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0061",
+   "rate": 270.067921227315,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0062",
+   "rate": 30.55359590484167,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0063",
+   "rate": 133.06063079970804,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0064",
+   "rate": 50,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0065",
+   "rate": 12.653048466708636,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0066",
+   "rate": 65,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0067",
+   "rate": 11.801796425609012,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0068",
+   "rate": 0.700392802124834,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0069",
+   "rate": 0.18612637362637363,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0070",
+   "rate": 256.5083333333333,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0071",
+   "rate": 90.30506508672609,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0072",
+   "rate": 137.55086437104708,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0073",
+   "rate": 91.15666666666668,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0074",
+   "rate": 80,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0075",
+   "rate": 47.14733333333333,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0076",
+   "rate": 39.77684210526315,
+   "unit": "EA"
+  },
+  {
+   "materialCode": "MAT0077",
+   "rate": 39.03737430200909,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0078",
+   "rate": null,
+   "unit": "KG"
+  },
+  {
+   "materialCode": "MAT0079",
+   "rate": 60,
+   "unit": "KG"
+  }
+ ],
+ "items": [
+  {
+   "code": "SFG-BF01",
+   "name": "Aloo Bhaji(VB) 60GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF02",
+   "name": "Poori (VB)100GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF03",
+   "name": "Boiled Egg (2 no )",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG004",
+   "name": "FINGER CHIPS(VB) 50GM",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF05",
+   "name": "Omlet(VB) 100GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF06",
+   "name": "Paneer Cutlet(VB) 80GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG007",
+   "name": "IDLI VADA",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF08",
+   "name": "Veg Cutlet(VB) 100GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF09",
+   "name": "Ajwain paratha(VB) 100GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF10",
+   "name": "Poha (100 gms )",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF11",
+   "name": "VEG UPMA(VB) 150/120 GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF12",
+   "name": "Aloo Paratha 150GM (1st AC & EC )",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF13",
+   "name": "DIABETIC BESAN CHILLA(150GM)",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF14",
+   "name": "Paneer Cutlet 100GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF15",
+   "name": "Veg Upma(VB) 100GM",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-BF16",
+   "name": "Boiled Veg (50 gms)",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG017",
+   "name": "ACT SFG PANEER KATHI ROLL (150GM)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG018",
+   "name": "ACT SFG CHICKEN KATHI ROLL (150GM)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG019",
+   "name": "Dal Tadka 120 GM",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG020",
+   "name": "Jeera Rice (100gms)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG021",
+   "name": "Poha (VB) 150GM",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG022",
+   "name": "ACT SFG JAIN LAUKI (120GM)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG023",
+   "name": "ACT SFG JAIN MATAR PANEER (150GM)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG024",
+   "name": "Jain Poha 100 GM",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG025",
+   "name": "Jain Upma 100 GM",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG026",
+   "name": "MAIL EXP VEG BIRYANI",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG027",
+   "name": "MAIL EXP(TANKI) EGG BRIYANI",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG028",
+   "name": "Chicken Biryani 270Gm Mail Exp",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-VS01",
+   "name": "Veg Sandwich (60gms)",
+   "type": "SFG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG030",
+   "name": "Cheese sandwich 60gms  (1st AC&EC)",
+   "type": "FG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG031",
+   "name": "Aloo Bonda(VB) 60GM",
+   "type": "FG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG032",
+   "name": "Dal Vada 80 GM",
+   "type": "FG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG033",
+   "name": "Dal Vada 100 GM",
+   "type": "FG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG034",
+   "name": "Samosa (VB)60 GM",
+   "type": "FG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-KC01",
+   "name": "KACHORI(VB)60GM",
+   "type": "SFG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG036",
+   "name": "PANEER PAKODA",
+   "type": "FG",
+   "group": "Hi-Tea",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG037",
+   "name": "Dry Veg Aloo Matter (50 gms)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG038",
+   "name": "Paneer Butter Masala 50paneer 50",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG039",
+   "name": "Chicken Masala 60gm chicken 40gm gr",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG040",
+   "name": "Plain Rice (100 gms )",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG041",
+   "name": "Jeera Rice (100gms)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG042",
+   "name": "Aloo Methi Dry(50GM)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG043",
+   "name": "Plain Parantha(100 gms)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG044",
+   "name": "Mix Dal Tadka (vb) 120GM)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG045",
+   "name": "Dry Veg Aloo Jeera 50 GM",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG046",
+   "name": "Chicken Curry 60gm chicken 40gm",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG047",
+   "name": "Dry Veg Aloo Parwal (50 gms)",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG048",
+   "name": "Egg Curry 200Gm (Mail Exp)-TEMP BLOK",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG049",
+   "name": "MAIL EXP FISH CURRY",
+   "type": "FG",
+   "group": "Lunch & Dinner",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG050",
+   "name": "Staff Dal (200 gms)",
+   "type": "FG",
+   "group": "Staff Food",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG051",
+   "name": "Staff Rice (200 gms)",
+   "type": "FG",
+   "group": "Staff Food",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG052",
+   "name": "Staff Veg (Aloo Mattar)",
+   "type": "FG",
+   "group": "Staff Food",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG053",
+   "name": "Plain Parantha(100 gms)",
+   "type": "FG",
+   "group": "Staff Food",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "SFG-CS01",
+   "name": "Cheese sandwich 60gms  (1st AC & EC)",
+   "type": "SFG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF01",
+   "name": "Breakfast 1 (Aloo Paratha + Paneer Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF02",
+   "name": "Breakfast 2 (Paneer Cutlet + Poha)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF03",
+   "name": "Breakfast 3 (Boiled Veg + Omlette)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF04",
+   "name": "Breakfast 4 (Cheese Sandwich + Paneer Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF05",
+   "name": "Breakfast 5 (Paneer Cutlet + Veg Sandwich)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF06",
+   "name": "Breakfast 6 (Cheese Sandwich + Veg Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF07",
+   "name": "Breakfast 7 (Veg Cutlet + Veg Sandwich)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF08",
+   "name": "Breakfast 8 (Kachori + Veg Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF09",
+   "name": "Breakfast 9 (Boiled Veg + Veg Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF10",
+   "name": "Breakfast 10 (Ajwain Paratha + Aloo Bhaji + Veg Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF11",
+   "name": "Breakfast 11 (Paneer Cutlet + Veg Upma)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF12",
+   "name": "Breakfast 12 (Omlette + Veg Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  },
+  {
+   "code": "FG-BF13",
+   "name": "Breakfast 13 (Aloo Paratha + Veg Cutlet)",
+   "type": "FG",
+   "group": "Breakfast",
+   "unit": "portion",
+   "active": true
+  }
+ ],
+ "recipes": [
+  {
+   "parentCode": "FG003",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0030",
+   "basisQty": 50,
+   "qty": 100,
+   "unit": "L",
+   "source": "BF row 3"
+  },
+  {
+   "parentCode": "FG003",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 50,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "BF row 4"
+  },
+  {
+   "parentCode": "FG003",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 50,
+   "qty": 50,
+   "unit": "EA",
+   "source": "BF row 5"
+  },
+  {
+   "parentCode": "FG003",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 50,
+   "qty": 50,
+   "unit": "EA",
+   "source": "BF row 6"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0030",
+   "basisQty": 100,
+   "qty": 150,
+   "unit": "L",
+   "source": "BF row 61"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "L",
+   "source": "BF row 62"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "L",
+   "source": "BF row 63"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "BF row 64"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "BF row 65"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 0.25,
+   "unit": "KG",
+   "source": "BF row 66"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "BF row 67"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.07,
+   "unit": "KG",
+   "source": "BF row 68"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 0,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 69"
+  },
+  {
+   "parentCode": "FG005",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 0,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 70"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0065",
+   "basisQty": 100,
+   "qty": 10,
+   "unit": "KG",
+   "source": "BF row 97"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0011",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "BF row 98"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0006",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 99"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0029",
+   "basisQty": 100,
+   "qty": 0.04,
+   "unit": "KG",
+   "source": "BF row 100"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0070",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "EA",
+   "source": "BF row 101"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.09,
+   "unit": "KG",
+   "source": "BF row 102"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "BF row 103"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.12,
+   "unit": "KG",
+   "source": "BF row 104"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0021",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "BF row 105"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "L",
+   "source": "BF row 106"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0063",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "BF row 107"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0007",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 108"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 109"
+  },
+  {
+   "parentCode": "FG008",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 110"
+  },
+  {
+   "parentCode": "FG009",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0005",
+   "basisQty": 100,
+   "qty": 11,
+   "unit": "KG",
+   "source": "BF row 37"
+  },
+  {
+   "parentCode": "FG009",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1.2,
+   "unit": "L",
+   "source": "BF row 38"
+  },
+  {
+   "parentCode": "FG009",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0003",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "KG",
+   "source": "BF row 39"
+  },
+  {
+   "parentCode": "FG009",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0052",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 40"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0065",
+   "basisQty": 100,
+   "qty": 7.8,
+   "unit": "KG",
+   "source": "BF row 71"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0011",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "BF row 72"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0006",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "BF row 73"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0029",
+   "basisQty": 100,
+   "qty": 0.04,
+   "unit": "KG",
+   "source": "BF row 74"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0070",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "EA",
+   "source": "BF row 75"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.09,
+   "unit": "KG",
+   "source": "BF row 76"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "BF row 77"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.12,
+   "unit": "KG",
+   "source": "BF row 78"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0021",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "BF row 79"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1.75,
+   "unit": "L",
+   "source": "BF row 80"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0063",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "BF row 81"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0007",
+   "basisQty": 100,
+   "qty": 0.3,
+   "unit": "KG",
+   "source": "BF row 82"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0066",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "EA",
+   "source": "BF row 83"
+  },
+  {
+   "parentCode": "FG014",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0061",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "BF row 84"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0076",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "EA",
+   "source": "BF row 134"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0015",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "EA",
+   "source": "BF row 135"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0059",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "EA",
+   "source": "BF row 136"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0063",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "BF row 137"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "BF row 138"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "L",
+   "source": "BF row 139"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0075",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "KG",
+   "source": "BF row 140"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 0.25,
+   "unit": "KG",
+   "source": "BF row 141"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "BF row 142"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0038",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 143"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0023",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "BF row 144"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0011",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "BF row 145"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0006",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "BF row 146"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "BF row 147"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 148"
+  },
+  {
+   "parentCode": "FG015",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0050",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 149"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "L",
+   "source": "BF row 7"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0040",
+   "basisQty": 100,
+   "qty": 0.015,
+   "unit": "KG",
+   "source": "BF row 8"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "BF row 9"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "BF row 10"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 3,
+   "unit": "KG",
+   "source": "BF row 11"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0045",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "BF row 12"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "BF row 13"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0022",
+   "basisQty": 100,
+   "qty": 0.005,
+   "unit": "KG",
+   "source": "BF row 14"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0031",
+   "basisQty": 100,
+   "qty": 0.005,
+   "unit": "KG",
+   "source": "BF row 15"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0043",
+   "basisQty": 100,
+   "qty": 0.005,
+   "unit": "KG",
+   "source": "BF row 16"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0046",
+   "basisQty": 100,
+   "qty": 12,
+   "unit": "L",
+   "source": "BF row 17"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 18"
+  },
+  {
+   "parentCode": "FG022",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 19"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "L",
+   "source": "BF row 20"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0040",
+   "basisQty": 100,
+   "qty": 0.015,
+   "unit": "KG",
+   "source": "BF row 21"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "KG",
+   "source": "BF row 22"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "KG",
+   "source": "BF row 23"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 5,
+   "unit": "KG",
+   "source": "BF row 24"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0045",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "BF row 25"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "BF row 26"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0022",
+   "basisQty": 100,
+   "qty": 0.005,
+   "unit": "KG",
+   "source": "BF row 27"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0031",
+   "basisQty": 100,
+   "qty": 0.005,
+   "unit": "KG",
+   "source": "BF row 28"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0043",
+   "basisQty": 100,
+   "qty": 0.005,
+   "unit": "KG",
+   "source": "BF row 29"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0038",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "BF row 30"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0061",
+   "basisQty": 100,
+   "qty": 6,
+   "unit": "KG",
+   "source": "BF row 31"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0042",
+   "basisQty": 100,
+   "qty": 0.3,
+   "unit": "KG",
+   "source": "BF row 32"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0075",
+   "basisQty": 100,
+   "qty": 0.04,
+   "unit": "KG",
+   "source": "BF row 33"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "BF row 34"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 35"
+  },
+  {
+   "parentCode": "FG023",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "BF row 36"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0009",
+   "basisQty": 100,
+   "qty": 8,
+   "unit": "KG",
+   "source": "LD row 140"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 3,
+   "unit": "KG",
+   "source": "LD row 141"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.8,
+   "unit": "L",
+   "source": "LD row 142"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0073",
+   "basisQty": 100,
+   "qty": 0.4,
+   "unit": "KG",
+   "source": "LD row 143"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0008",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 144"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0038",
+   "basisQty": 100,
+   "qty": 1.5,
+   "unit": "KG",
+   "source": "LD row 145"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0006",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "LD row 146"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0011",
+   "basisQty": 100,
+   "qty": 1.5,
+   "unit": "KG",
+   "source": "LD row 147"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 148"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 149"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 150"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 151"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 152"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 153"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0045",
+   "basisQty": 100,
+   "qty": 0.25,
+   "unit": "KG",
+   "source": "LD row 154"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0074",
+   "basisQty": 100,
+   "qty": 0.75,
+   "unit": "KG",
+   "source": "LD row 155"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0033",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "LD row 156"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 4.8,
+   "unit": "KG",
+   "source": "LD row 157"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 158"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 159"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 160"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "L",
+   "source": "LD row 161"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 162"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 163"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0026",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 164"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 165"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 166"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 4.8,
+   "unit": "KG",
+   "source": "LD row 167"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "L",
+   "source": "LD row 168"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0001",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "LD row 169"
+  },
+  {
+   "parentCode": "FG026",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0049",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 170"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0009",
+   "basisQty": 100,
+   "qty": 10,
+   "unit": "KG",
+   "source": "LD row 171"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 2.5,
+   "unit": "L",
+   "source": "LD row 172"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0030",
+   "basisQty": 100,
+   "qty": 260,
+   "unit": "L",
+   "source": "LD row 173"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 3.33,
+   "unit": "KG",
+   "source": "LD row 174"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 5,
+   "unit": "KG",
+   "source": "LD row 175"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.17,
+   "unit": "KG",
+   "source": "LD row 176"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.17,
+   "unit": "KG",
+   "source": "LD row 177"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.17,
+   "unit": "KG",
+   "source": "LD row 178"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.42,
+   "unit": "KG",
+   "source": "LD row 179"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.17,
+   "unit": "KG",
+   "source": "LD row 180"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0044",
+   "basisQty": 100,
+   "qty": 0.04,
+   "unit": "KG",
+   "source": "LD row 181"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.08,
+   "unit": "L",
+   "source": "LD row 182"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.17,
+   "unit": "KG",
+   "source": "LD row 183"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.08,
+   "unit": "KG",
+   "source": "LD row 184"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.151,
+   "unit": "KG",
+   "source": "LD row 185"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 186"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 187"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 188"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "L",
+   "source": "LD row 189"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "LD row 190"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 191"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0026",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 192"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.151,
+   "unit": "KG",
+   "source": "LD row 193"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.251,
+   "unit": "KG",
+   "source": "LD row 194"
+  },
+  {
+   "parentCode": "FG027",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 5,
+   "unit": "KG",
+   "source": "LD row 195"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0079",
+   "basisQty": 100,
+   "qty": 7,
+   "unit": "KG",
+   "source": "LD row 302"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "L",
+   "source": "LD row 303"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0017",
+   "basisQty": 100,
+   "qty": 10,
+   "unit": "KG",
+   "source": "LD row 304"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 1.5,
+   "unit": "KG",
+   "source": "LD row 305"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 306"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 307"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 308"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 309"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 310"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 311"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "L",
+   "source": "LD row 312"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.04,
+   "unit": "KG",
+   "source": "LD row 313"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 314"
+  },
+  {
+   "parentCode": "FG028",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 315"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0041",
+   "basisQty": 100,
+   "qty": 5,
+   "unit": "KG",
+   "source": "BF row 111"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0055",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 112"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0011",
+   "basisQty": 100,
+   "qty": 2.5,
+   "unit": "KG",
+   "source": "BF row 113"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0078",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "BF row 114"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "KG",
+   "source": "BF row 115"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0075",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "BF row 116"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0068",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 117"
+  },
+  {
+   "parentCode": "FG029",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0069",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 118"
+  },
+  {
+   "parentCode": "FG030",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0041",
+   "basisQty": 100,
+   "qty": 5,
+   "unit": "KG",
+   "source": "BF row 41"
+  },
+  {
+   "parentCode": "FG030",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0055",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "BF row 42"
+  },
+  {
+   "parentCode": "FG030",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0016",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 43"
+  },
+  {
+   "parentCode": "FG030",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0078",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "BF row 44"
+  },
+  {
+   "parentCode": "FG030",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0068",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 45"
+  },
+  {
+   "parentCode": "FG030",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0069",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "BF row 46"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0065",
+   "basisQty": 100,
+   "qty": 10,
+   "unit": "KG",
+   "source": "LD row 76"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0011",
+   "basisQty": 100,
+   "qty": 3,
+   "unit": "KG",
+   "source": "LD row 77"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0038",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "LD row 78"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 79"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 80"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "L",
+   "source": "LD row 81"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0013",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 82"
+  },
+  {
+   "parentCode": "FG037",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0048",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 83"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0061",
+   "basisQty": 100,
+   "qty": 5,
+   "unit": "KG",
+   "source": "LD row 241"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 2.5,
+   "unit": "KG",
+   "source": "LD row 242"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 2.5,
+   "unit": "KG",
+   "source": "LD row 243"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 244"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 245"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 246"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 247"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 248"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "L",
+   "source": "LD row 249"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0045",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 250"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0044",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 251"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.4,
+   "unit": "L",
+   "source": "LD row 252"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0053",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 253"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0033",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 254"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0010",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "L",
+   "source": "LD row 255"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.06,
+   "unit": "KG",
+   "source": "LD row 256"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 257"
+  },
+  {
+   "parentCode": "FG038",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 258"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0018",
+   "basisQty": 100,
+   "qty": 8,
+   "unit": "EA",
+   "source": "LD row 47"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 48"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 49"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 50"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 51"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 52"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 53"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 54"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "L",
+   "source": "LD row 55"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0019",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 56"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0044",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 57"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.4,
+   "unit": "L",
+   "source": "LD row 58"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0053",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 59"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 60"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 61"
+  },
+  {
+   "parentCode": "FG039",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 62"
+  },
+  {
+   "parentCode": "FG040",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0025",
+   "basisQty": 100,
+   "qty": 40,
+   "unit": "EA",
+   "source": "LD row 279"
+  },
+  {
+   "parentCode": "FG040",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.7,
+   "unit": "L",
+   "source": "LD row 280"
+  },
+  {
+   "parentCode": "FG040",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 281"
+  },
+  {
+   "parentCode": "FG040",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 282"
+  },
+  {
+   "parentCode": "FG041",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0025",
+   "basisQty": 100,
+   "qty": 40,
+   "unit": "EA",
+   "source": "LD row 94"
+  },
+  {
+   "parentCode": "FG041",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0040",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "KG",
+   "source": "LD row 95"
+  },
+  {
+   "parentCode": "FG041",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.7,
+   "unit": "L",
+   "source": "LD row 96"
+  },
+  {
+   "parentCode": "FG041",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 97"
+  },
+  {
+   "parentCode": "FG041",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 98"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0065",
+   "basisQty": 100,
+   "qty": 10,
+   "unit": "KG",
+   "source": "LD row 2"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 3"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.04,
+   "unit": "KG",
+   "source": "LD row 4"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "L",
+   "source": "LD row 5"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 6"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 7"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "L",
+   "source": "LD row 8"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0056",
+   "basisQty": 100,
+   "qty": 0.12,
+   "unit": "KG",
+   "source": "LD row 9"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 10"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0044",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 11"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0012",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 12"
+  },
+  {
+   "parentCode": "FG042",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0048",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 13"
+  },
+  {
+   "parentCode": "FG043",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0005",
+   "basisQty": 100,
+   "qty": 11,
+   "unit": "KG",
+   "source": "LD row 276"
+  },
+  {
+   "parentCode": "FG043",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1.2,
+   "unit": "L",
+   "source": "LD row 277"
+  },
+  {
+   "parentCode": "FG043",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0052",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 278"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0058",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "LD row 215"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0054",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "LD row 216"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0004",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "EA",
+   "source": "LD row 217"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "LD row 218"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0040",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "KG",
+   "source": "LD row 219"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0059",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "EA",
+   "source": "LD row 220"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0057",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 221"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.3,
+   "unit": "L",
+   "source": "LD row 222"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "LD row 223"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 224"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "LD row 225"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 226"
+  },
+  {
+   "parentCode": "FG044",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 227"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0065",
+   "basisQty": 100,
+   "qty": 10,
+   "unit": "KG",
+   "source": "LD row 63"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "L",
+   "source": "LD row 64"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 65"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "L",
+   "source": "LD row 66"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.007,
+   "unit": "KG",
+   "source": "LD row 67"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0040",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 68"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 69"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0002",
+   "basisQty": 100,
+   "qty": 0.045,
+   "unit": "EA",
+   "source": "LD row 70"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.025,
+   "unit": "KG",
+   "source": "LD row 71"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 72"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0057",
+   "basisQty": 100,
+   "qty": 0.015,
+   "unit": "KG",
+   "source": "LD row 73"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0013",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 74"
+  },
+  {
+   "parentCode": "FG045",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0048",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 75"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0018",
+   "basisQty": 100,
+   "qty": 8,
+   "unit": "EA",
+   "source": "LD row 14"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 15"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 16"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 17"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 18"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 19"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 20"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 21"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "L",
+   "source": "LD row 22"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0019",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 23"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0044",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 24"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.4,
+   "unit": "L",
+   "source": "LD row 25"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0053",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 26"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 27"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 28"
+  },
+  {
+   "parentCode": "FG046",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 29"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0065",
+   "basisQty": 100,
+   "qty": 7,
+   "unit": "KG",
+   "source": "LD row 84"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0062",
+   "basisQty": 100,
+   "qty": 1.5,
+   "unit": "KG",
+   "source": "LD row 85"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.75,
+   "unit": "L",
+   "source": "LD row 86"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0027",
+   "basisQty": 100,
+   "qty": 0.15,
+   "unit": "KG",
+   "source": "LD row 87"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "L",
+   "source": "LD row 88"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 89"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "KG",
+   "source": "LD row 90"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 91"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0013",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 92"
+  },
+  {
+   "parentCode": "FG047",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0048",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 93"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 4.5,
+   "unit": "KG",
+   "source": "LD row 331"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 3.5,
+   "unit": "KG",
+   "source": "LD row 332"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0030",
+   "basisQty": 100,
+   "qty": 200,
+   "unit": "L",
+   "source": "LD row 333"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.13,
+   "unit": "KG",
+   "source": "LD row 334"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.13,
+   "unit": "KG",
+   "source": "LD row 335"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0037",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 336"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0040",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 337"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "KG",
+   "source": "LD row 338"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.06,
+   "unit": "KG",
+   "source": "LD row 339"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0034",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 340"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.75,
+   "unit": "L",
+   "source": "LD row 341"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.05,
+   "unit": "L",
+   "source": "LD row 342"
+  },
+  {
+   "parentCode": "FG048",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 343"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0032",
+   "basisQty": 100,
+   "qty": 10,
+   "unit": "KG",
+   "source": "LD row 316"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 3,
+   "unit": "KG",
+   "source": "LD row 317"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.8,
+   "unit": "KG",
+   "source": "LD row 318"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.8,
+   "unit": "KG",
+   "source": "LD row 319"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.06,
+   "unit": "KG",
+   "source": "LD row 320"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.04,
+   "unit": "KG",
+   "source": "LD row 321"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.03,
+   "unit": "L",
+   "source": "LD row 322"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0044",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 323"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.5,
+   "unit": "L",
+   "source": "LD row 324"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.1,
+   "unit": "KG",
+   "source": "LD row 325"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0019",
+   "basisQty": 100,
+   "qty": 0.02,
+   "unit": "KG",
+   "source": "LD row 326"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 3,
+   "unit": "KG",
+   "source": "LD row 327"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0040",
+   "basisQty": 100,
+   "qty": 0.01,
+   "unit": "KG",
+   "source": "LD row 328"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0014",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 329"
+  },
+  {
+   "parentCode": "FG049",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0051",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 330"
+  },
+  {
+   "parentCode": "FG050",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0004",
+   "basisQty": 100,
+   "qty": 5.2,
+   "unit": "EA",
+   "source": "LD row 283"
+  },
+  {
+   "parentCode": "FG050",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.25,
+   "unit": "L",
+   "source": "LD row 284"
+  },
+  {
+   "parentCode": "FG050",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.031,
+   "unit": "L",
+   "source": "LD row 285"
+  },
+  {
+   "parentCode": "FG050",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "LD row 286"
+  },
+  {
+   "parentCode": "FG051",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0009",
+   "basisQty": 100,
+   "qty": 8,
+   "unit": "KG",
+   "source": "LD row 287"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0065",
+   "basisQty": 100,
+   "qty": 6,
+   "unit": "KG",
+   "source": "LD row 288"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0038",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 289"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0060",
+   "basisQty": 100,
+   "qty": 1,
+   "unit": "KG",
+   "source": "LD row 290"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0036",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "LD row 291"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0035",
+   "basisQty": 100,
+   "qty": 0.2,
+   "unit": "KG",
+   "source": "LD row 292"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 0.375,
+   "unit": "L",
+   "source": "LD row 293"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0077",
+   "basisQty": 100,
+   "qty": 2,
+   "unit": "KG",
+   "source": "LD row 294"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0020",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 295"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0039",
+   "basisQty": 100,
+   "qty": 0.038,
+   "unit": "L",
+   "source": "LD row 296"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0028",
+   "basisQty": 100,
+   "qty": 0.075,
+   "unit": "KG",
+   "source": "LD row 297"
+  },
+  {
+   "parentCode": "FG052",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0067",
+   "basisQty": 100,
+   "qty": 0.113,
+   "unit": "KG",
+   "source": "LD row 298"
+  },
+  {
+   "parentCode": "FG053",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0005",
+   "basisQty": 100,
+   "qty": 11,
+   "unit": "KG",
+   "source": "LD row 276"
+  },
+  {
+   "parentCode": "FG053",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0072",
+   "basisQty": 100,
+   "qty": 1.2,
+   "unit": "L",
+   "source": "LD row 277"
+  },
+  {
+   "parentCode": "FG053",
+   "componentType": "MATERIAL",
+   "componentCode": "MAT0052",
+   "basisQty": 100,
+   "qty": 100,
+   "unit": "EA",
+   "source": "LD row 278"
+  },
+  {
+   "id": "bom-FG-BF01-SFG-BF12",
+   "parentCode": "FG-BF01",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF12",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF01-SFG-BF14",
+   "parentCode": "FG-BF01",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF14",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF02-SFG-BF14",
+   "parentCode": "FG-BF02",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF14",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF02-SFG-BF10",
+   "parentCode": "FG-BF02",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF10",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF03-SFG-BF16",
+   "parentCode": "FG-BF03",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF16",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF03-SFG-BF05",
+   "parentCode": "FG-BF03",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF05",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF04-SFG-CS01",
+   "parentCode": "FG-BF04",
+   "componentType": "SFG",
+   "componentCode": "SFG-CS01",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF04-SFG-BF14",
+   "parentCode": "FG-BF04",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF14",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF05-SFG-BF14",
+   "parentCode": "FG-BF05",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF14",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF05-SFG-VS01",
+   "parentCode": "FG-BF05",
+   "componentType": "SFG",
+   "componentCode": "SFG-VS01",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF06-SFG-CS01",
+   "parentCode": "FG-BF06",
+   "componentType": "SFG",
+   "componentCode": "SFG-CS01",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF06-SFG-BF08",
+   "parentCode": "FG-BF06",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF08",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF07-SFG-BF08",
+   "parentCode": "FG-BF07",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF08",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF07-SFG-VS01",
+   "parentCode": "FG-BF07",
+   "componentType": "SFG",
+   "componentCode": "SFG-VS01",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF08-SFG-KC01",
+   "parentCode": "FG-BF08",
+   "componentType": "SFG",
+   "componentCode": "SFG-KC01",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF08-SFG-BF08",
+   "parentCode": "FG-BF08",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF08",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF09-SFG-BF16",
+   "parentCode": "FG-BF09",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF16",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF09-SFG-BF08",
+   "parentCode": "FG-BF09",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF08",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF10-SFG-BF09",
+   "parentCode": "FG-BF10",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF09",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF10-SFG-BF01",
+   "parentCode": "FG-BF10",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF01",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF10-SFG-BF08",
+   "parentCode": "FG-BF10",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF08",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF11-SFG-BF14",
+   "parentCode": "FG-BF11",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF14",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF11-SFG-BF11",
+   "parentCode": "FG-BF11",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF11",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF12-SFG-BF05",
+   "parentCode": "FG-BF12",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF05",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF12-SFG-BF08",
+   "parentCode": "FG-BF12",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF08",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF13-SFG-BF12",
+   "parentCode": "FG-BF13",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF12",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  },
+  {
+   "id": "bom-FG-BF13-SFG-BF08",
+   "parentCode": "FG-BF13",
+   "componentType": "SFG",
+   "componentCode": "SFG-BF08",
+   "basisQty": 1,
+   "qty": 1,
+   "unit": "portion",
+   "effectiveFrom": "2026-09-01",
+   "effectiveTo": "",
+   "kitchenId": ""
+  }
+ ],
+ "demand": [
+  {
+   "itemCode": "FG005",
+   "qty": 16049,
+   "col": "K",
+   "name": "Omlet(VB) 100GM"
+  },
+  {
+   "itemCode": "FG008",
+   "qty": 1990,
+   "col": "N",
+   "name": "Veg Cutlet(VB) 100GM"
+  },
+  {
+   "itemCode": "FG014",
+   "qty": 13519,
+   "col": "T",
+   "name": "Paneer Cutlet 100GM"
+  },
+  {
+   "itemCode": "FG015",
+   "qty": 381,
+   "col": "U",
+   "name": "Veg Upma(VB) 100GM"
+  },
+  {
+   "itemCode": "FG026",
+   "qty": 505,
+   "col": "AF",
+   "name": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "itemCode": "FG027",
+   "qty": 1580,
+   "col": "AG",
+   "name": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "itemCode": "FG028",
+   "qty": 20,
+   "col": "AH",
+   "name": "Chicken Biryani 270Gm Mail Exp"
+  },
+  {
+   "itemCode": "FG037",
+   "qty": 927,
+   "col": "AQ",
+   "name": "Dry Veg Aloo Matter (50 gms)"
+  },
+  {
+   "itemCode": "FG038",
+   "qty": 13455,
+   "col": "AR",
+   "name": "Paneer Butter Masala 50paneer 50"
+  },
+  {
+   "itemCode": "FG039",
+   "qty": 4980,
+   "col": "AS",
+   "name": "Chicken Masala 60gm chicken 40gm gr"
+  },
+  {
+   "itemCode": "FG040",
+   "qty": 4382,
+   "col": "AT",
+   "name": "Plain Rice (100 gms )"
+  },
+  {
+   "itemCode": "FG041",
+   "qty": 18633,
+   "col": "AU",
+   "name": "Jeera Rice (100gms)"
+  },
+  {
+   "itemCode": "FG042",
+   "qty": 7787,
+   "col": "AV",
+   "name": "Aloo Methi Dry(50GM)"
+  },
+  {
+   "itemCode": "FG043",
+   "qty": 23645,
+   "col": "AW",
+   "name": "Plain Parantha(100 gms)"
+  },
+  {
+   "itemCode": "FG044",
+   "qty": 23015,
+   "col": "AX",
+   "name": "Mix Dal Tadka (vb) 120GM)"
+  },
+  {
+   "itemCode": "FG045",
+   "qty": 2362,
+   "col": "AY",
+   "name": "Dry Veg Aloo Jeera 50 GM"
+  },
+  {
+   "itemCode": "FG046",
+   "qty": 3030,
+   "col": "AZ",
+   "name": "Chicken Curry 60gm chicken 40gm"
+  },
+  {
+   "itemCode": "FG047",
+   "qty": 11939,
+   "col": "BA",
+   "name": "Dry Veg Aloo Parwal (50 gms)"
+  },
+  {
+   "itemCode": "FG048",
+   "qty": 240,
+   "col": "BB",
+   "name": "Egg Curry 200Gm (Mail Exp)-TEMP BLOK"
+  },
+  {
+   "itemCode": "FG049",
+   "qty": 30,
+   "col": "BC",
+   "name": "MAIL EXP FISH CURRY"
+  },
+  {
+   "itemCode": "FG050",
+   "qty": 6165,
+   "col": "BD",
+   "name": "Staff Dal (200 gms)"
+  },
+  {
+   "itemCode": "FG051",
+   "qty": 6165,
+   "col": "BE",
+   "name": "Staff Rice (200 gms)"
+  },
+  {
+   "itemCode": "FG052",
+   "qty": 6165,
+   "col": "BF",
+   "name": "Staff Veg (Aloo Mattar)"
+  },
+  {
+   "itemCode": "FG053",
+   "qty": 6165,
+   "col": "BG",
+   "name": "Plain Parantha(100 gms)"
+  }
+ ],
+ "review": [
+  {
+   "kind": "demand-missing",
+   "message": "'Aloo Bhaji(VB) 60GM' has no meals quantity in the workbook.",
+   "ref": "G9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Poori (VB)100GM' has no meals quantity in the workbook.",
+   "ref": "H9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'FINGER CHIPS(VB) 50GM' has no meals quantity in the workbook.",
+   "ref": "J9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Paneer Cutlet(VB) 80GM' has no meals quantity in the workbook.",
+   "ref": "L9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'IDLI VADA' has no meals quantity in the workbook.",
+   "ref": "M9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Ajwain paratha(VB) 100GM' has no meals quantity in the workbook.",
+   "ref": "O9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Poha (100 gms )' has no meals quantity in the workbook.",
+   "ref": "P9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'VEG UPMA(VB) 150/120 GM' has no meals quantity in the workbook.",
+   "ref": "Q9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Aloo Paratha 150GM (1st AC & EC )' has no meals quantity in the workbook.",
+   "ref": "R9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'DIABETIC BESAN CHILLA(150GM)' has no meals quantity in the workbook.",
+   "ref": "S9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Boiled Veg (50 gms)' has no meals quantity in the workbook.",
+   "ref": "V9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'ACT SFG PANEER KATHI ROLL (150GM)' has no meals quantity in the workbook.",
+   "ref": "W9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'ACT SFG CHICKEN KATHI ROLL (150GM)' has no meals quantity in the workbook.",
+   "ref": "X9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Dal Tadka 120 GM' has no meals quantity in the workbook.",
+   "ref": "Y9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Jeera Rice (100gms)' has no meals quantity in the workbook.",
+   "ref": "Z9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Poha (VB) 150GM' has no meals quantity in the workbook.",
+   "ref": "AA9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'ACT SFG JAIN LAUKI (120GM)' has no meals quantity in the workbook.",
+   "ref": "AB9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'ACT SFG JAIN MATAR PANEER (150GM)' has no meals quantity in the workbook.",
+   "ref": "AC9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Jain Poha 100 GM' has no meals quantity in the workbook.",
+   "ref": "AD9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Jain Upma 100 GM' has no meals quantity in the workbook.",
+   "ref": "AE9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Veg Sandwich (60gms)' has no meals quantity in the workbook.",
+   "ref": "AI9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Cheese sandwich 60gms  (1st AC&EC)' has no meals quantity in the workbook.",
+   "ref": "AJ9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Aloo Bonda(VB) 60GM' has no meals quantity in the workbook.",
+   "ref": "AK9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Dal Vada 80 GM' has no meals quantity in the workbook.",
+   "ref": "AL9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Dal Vada 100 GM' has no meals quantity in the workbook.",
+   "ref": "AM9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'Samosa (VB)60 GM' has no meals quantity in the workbook.",
+   "ref": "AN9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'KACHORI(VB)60GM' has no meals quantity in the workbook.",
+   "ref": "AO9"
+  },
+  {
+   "kind": "demand-missing",
+   "message": "'PANEER PAKODA' has no meals quantity in the workbook.",
+   "ref": "AP9"
+  },
+  {
+   "kind": "demand-formula",
+   "message": "Meals qty for 'Aloo Methi Dry(50GM)' is a typed calculation (=9892-2105) — confirm 7787.",
+   "ref": "AV9"
+  },
+  {
+   "kind": "demand-formula",
+   "message": "Meals qty for 'Plain Parantha(100 gms)' is a typed calculation (=23015+630) — confirm 23645.",
+   "ref": "AW9"
+  },
+  {
+   "kind": "duplicate-menu",
+   "message": "Menu 'Plain Parantha(100 gms)' appears 2 times using the same recipe sheet (different service groups). Each gets its own FG code; confirm.",
+   "ref": "Plain Parantha(100 gms)"
+  },
+  {
+   "kind": "group-conflict",
+   "message": "Menu 'Jeera Rice (100gms)' is listed under several service groups: ['Breakfast', 'Lunch & Dinner'].",
+   "ref": "Jeera Rice (100gms)"
+  },
+  {
+   "kind": "group-conflict",
+   "message": "Menu 'Plain Parantha(100 gms)' is listed under several service groups: ['Lunch & Dinner', 'Staff Food'].",
+   "ref": "Plain Parantha(100 gms)"
+  },
+  {
+   "kind": "group-vs-recipe",
+   "message": "'ACT SFG JAIN MATAR PANEER (150GM)' is typed 'Lunch & Dinner' but uses the Breakfast recipe sheet.",
+   "ref": "AC"
+  },
+  {
+   "kind": "recipe-base",
+   "message": "L&D recipe rows are tagged with base(s) {'B-64 NEW DELHI': 342} — not Howrah. The workbook applies them to Howrah anyway; confirm they are valid for Howrah.",
+   "ref": "L&D-receipe!A"
+  },
+  {
+   "kind": "rate-missing",
+   "message": "No rate for 'WHITE PEPPER POWDER'.",
+   "ref": "E38"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'2 CP PLASTIC THALI BLACK-P': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "2 CP PLASTIC THALI BLACK-P"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'AAMCHUR POWDER 100 GM': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "AAMCHUR POWDER 100 GM"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'ARAHAR DAL': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "ARAHAR DAL"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'BUTTER 500G-P': rate unit is L but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "BUTTER 500G-P"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'CASSEROLL 120ML 32 MICRON': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "CASSEROLL 120ML 32 MICRON"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'CASSEROLL 210 ML 50 MICRON': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "CASSEROLL 210 ML 50 MICRON"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'CHANA DAL': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "CHANA DAL"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'CHICKEN FROZEN BREAST (BONELESS)': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "CHICKEN FROZEN BREAST (BONELESS)"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'DALDA': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "DALDA"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'DAWAT CHEF SEC ROYAL BASMATI RICE': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "DAWAT CHEF SEC ROYAL BASMATI RICE"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'EGG': rate unit is L but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "EGG"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'FRESH CREAM-P': rate unit is KG but recipes use ['L']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "FRESH CREAM-P"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'HALDI POWDER 200 GM': rate unit is L but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "HALDI POWDER 200 GM"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'JUMBO BREAD': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "JUMBO BREAD"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'LAUKI': rate unit is L but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "LAUKI"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'LID 120 ML PRINT VB (75 MM X 75 MM)': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "LID 120 ML PRINT VB (75 MM X 75 MM)"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'LID 120ML 350 GSM (82 MM X 91 MM)': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "LID 120ML 350 GSM (82 MM X 91 MM)"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'LID 2 CP PLASTIC THALI 11 GM': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "LID 2 CP PLASTIC THALI 11 GM"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'LID 210 ML PRINT VB (120 MM X 90 MM)': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "LID 210 ML PRINT VB (120 MM X 90 MM)"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'LID 210ML PRNT 300 GSM (120 MM X 90 MM )': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "LID 210ML PRNT 300 GSM (120 MM X 90 MM )"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'LID PARATHA 10 MICRON': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "LID PARATHA 10 MICRON"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'MUSTARD': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "MUSTARD"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'PHOOL GOBHI': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "PHOOL GOBHI"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'RICE CRUMS (TAXABLE)': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "RICE CRUMS (TAXABLE)"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'SANDWICH COVER 60GM': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "SANDWICH COVER 60GM"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'SANDWICH PANNI': rate unit is KG but recipes use ['EA']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "SANDWICH PANNI"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'SAUNF': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "SAUNF"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'SOYABEAN OIL-P': rate unit is KG but recipes use ['L']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "SOYABEAN OIL-P"
+  },
+  {
+   "kind": "unit-conflict",
+   "message": "'SUJI': rate unit is EA but recipes use ['KG']. No conversion given — not converted; lines are excluded from value until you set a conversion.",
+   "ref": "SUJI"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Aloo Bhaji(VB) 60GM'.",
+   "ref": "G"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Poori (VB)100GM'.",
+   "ref": "H"
+  },
+  {
+   "kind": "basis-vs-formula",
+   "message": "'Boiled Egg (2 no )' / 'EGG': recipe says 50 portions but the workbook formula always divides by 100. App uses the recipe's own basis (50); the workbook would give a different (likely wrong) answer.",
+   "ref": "3"
+  },
+  {
+   "kind": "basis-vs-formula",
+   "message": "'Boiled Egg (2 no )' / 'SALT': recipe says 50 portions but the workbook formula always divides by 100. App uses the recipe's own basis (50); the workbook would give a different (likely wrong) answer.",
+   "ref": "4"
+  },
+  {
+   "kind": "basis-vs-formula",
+   "message": "'Boiled Egg (2 no )' / 'CASSEROLL 210 ML 50 MICRON': recipe says 50 portions but the workbook formula always divides by 100. App uses the recipe's own basis (50); the workbook would give a different (likely wrong) answer.",
+   "ref": "5"
+  },
+  {
+   "kind": "basis-vs-formula",
+   "message": "'Boiled Egg (2 no )' / 'LID 210ML PRNT 300 GSM (120 MM X 90 MM )': recipe says 50 portions but the workbook formula always divides by 100. App uses the recipe's own basis (50); the workbook would give a different (likely wrong) answer.",
+   "ref": "6"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'FINGER CHIPS(VB) 50GM'.",
+   "ref": "J"
+  },
+  {
+   "kind": "invalid-basis",
+   "message": "'Omlet(VB) 100GM' / 'CASSEROLL 210 ML 50 MICRON' has no valid portion basis; imported as 0 so it is blocked until fixed.",
+   "ref": "69"
+  },
+  {
+   "kind": "invalid-basis",
+   "message": "'Omlet(VB) 100GM' / 'LID 210ML PRNT 300 GSM (120 MM X 90 MM )' has no valid portion basis; imported as 0 so it is blocked until fixed.",
+   "ref": "70"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Paneer Cutlet(VB) 80GM'.",
+   "ref": "L"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'IDLI VADA'.",
+   "ref": "M"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Poha (100 gms )'.",
+   "ref": "P"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'VEG UPMA(VB) 150/120 GM'.",
+   "ref": "Q"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Aloo Paratha 150GM (1st AC & EC )'.",
+   "ref": "R"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'DIABETIC BESAN CHILLA(150GM)'.",
+   "ref": "S"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Boiled Veg (50 gms)'.",
+   "ref": "V"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'ACT SFG PANEER KATHI ROLL (150GM)'.",
+   "ref": "W"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'ACT SFG CHICKEN KATHI ROLL (150GM)'.",
+   "ref": "X"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Dal Tadka 120 GM'.",
+   "ref": "Y"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Jeera Rice (100gms)'.",
+   "ref": "Z"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Poha (VB) 150GM'.",
+   "ref": "AA"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Jain Poha 100 GM'.",
+   "ref": "AD"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Jain Upma 100 GM'.",
+   "ref": "AE"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP VEG BIRYANI' lists 'ONION' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP VEG BIRYANI' lists 'SOYABEAN OIL-P' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP VEG BIRYANI' lists 'TOMATO' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP VEG BIRYANI' lists 'GINGER' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP VEG BIRYANI' lists 'GARLIC' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP VEG BIRYANI' lists 'DHANIA' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP VEG BIRYANI' lists 'SALT' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP VEG BIRYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'TOMATO' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'GINGER' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'GARLIC' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'GREEN CHILLY' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'DHANIA' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'CHILLI POWDER 200 GM' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'HALDI POWDER 200 GM' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'DHANIA POWDER 200 GM' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-duplicate",
+   "message": "'MAIL EXP(TANKI) EGG BRIYANI' lists 'GARAM MASALA-P' 2 times; the workbook adds them together, so the app does too — confirm.",
+   "ref": "MAIL EXP(TANKI) EGG BRIYANI"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Aloo Bonda(VB) 60GM'.",
+   "ref": "AK"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Dal Vada 80 GM'.",
+   "ref": "AL"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Dal Vada 100 GM'.",
+   "ref": "AM"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'Samosa (VB)60 GM'.",
+   "ref": "AN"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'KACHORI(VB)60GM'.",
+   "ref": "AO"
+  },
+  {
+   "kind": "recipe-missing",
+   "message": "No recipe rows found for 'PANEER PAKODA'.",
+   "ref": "AP"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'MAIL EXP/RSD VEG B/F CUTLET' (Breakfast sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "MAIL EXP/RSD VEG B/F CUTLET"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Train And Base Staff Cutlet' (Breakfast sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Train And Base Staff Cutlet"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'VEG UPMA(VB) 150 GM' (Breakfast sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "VEG UPMA(VB) 150 GM"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Veg Upma (100 gms)' (Breakfast sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Veg Upma (100 gms)"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Chicken Do Pyaza 60chicken 40 gravy-BLOK' (L&D sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Chicken Do Pyaza 60chicken 40 gravy-BLOK"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Kadhai Chicken 60gm chicken 40gm gr' (L&D sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Kadhai Chicken 60gm chicken 40gm gr"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Kadhai Paneer 50gms paneer 50gmsT BLOCK' (L&D sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Kadhai Paneer 50gms paneer 50gmsT BLOCK"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Matar Paneer 50gm paneer 50gm g' (L&D sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Matar Paneer 50gm paneer 50gm g"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Mix Veg (VB) 60 GM' (L&D sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Mix Veg (VB) 60 GM"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Paneer Do Pyaza 50gm paneer 50gm' (L&D sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Paneer Do Pyaza 50gm paneer 50gm"
+  },
+  {
+   "kind": "recipe-no-demand",
+   "message": "Recipe 'Train And Base Staff Plan Paratha' (L&D sheet) has no column in Production Indent, so it was not imported as a menu item.",
+   "ref": "Train And Base Staff Plan Paratha"
+  },
+  {
+   "kind": "sfg",
+   "message": "Recipe sheets contain SFG/Bulk codes (e.g. SFG0000581) and unlabelled 'batch' columns, but no SFG-to-material structure the workbook itself uses. No SFG BOMs were created.",
+   "ref": "L&D-receipe!C,E,H,I"
+  },
+  {
+   "kind": "demand-dates",
+   "message": "Meals quantities in Production Indent are one total per menu (the indent summary is titled 'August') with no service dates. Pick a date when loading.",
+   "ref": "Production Indent!row 9"
+  },
+  {
+   "kind": "rate-date",
+   "message": "Rates have no effective date in the workbook. The import date you choose is used.",
+   "ref": "Production Indent!E"
+  },
+  {
+   "kind": "meal-count",
+   "message": "Workbook meal counts (Breakfast 32,554; Lunch & Dinner 25,473; Staff 6,165) are not the sum of menu-item quantities (a lunch meal has rice, dal, veg…). The app plans in menu-item portions, so its portion total will not equal the workbook meal count.",
+   "ref": "indent summary!G7:J7"
+  },
+  {
+   "kind": "actuals",
+   "message": "Actual Consumption / P&L columns in indent summary are empty; no opening, purchase or closing stock exists to import.",
+   "ref": "indent summary!M:P"
+  },
+  {
+   "kind": "correction-sheet",
+   "message": "Hidden sheet 'To be correction in system' lists names needing fixes: Chilli Powder 200 gm, clove (loung), Dalchini, Dhaniya Powder 200 gm, Elaichi Big, Haldi Powder 200 gm, Kitchen king masala, Saunf, Fresh Chicken. Not applied.",
+   "ref": "hidden sheet"
+  },
+  {
+   "kind": "hidden",
+   "message": "Hidden sheets b-64 and other expenses were not used.",
+   "ref": "hidden"
+  }
+ ]
+}
